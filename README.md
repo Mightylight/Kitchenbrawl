@@ -4,16 +4,19 @@ This is my game that i made for school about Kitchen utensils
 
 ## Main menu
 
-There is also a continue button to continue your fight if you happen to press quit in the game
 On the main menu, we obviously have a start game button, but also an erase button which erases your game data (highscore and savefile)
+There is also a continue button to continue your fight if you happen to press quit in the game
 
 ![](readme_assets/main-menu.png)
+
+
 
 ## Character selection
 After you press start, you'll be send to a character selection screen, where you can play 4 utensils
 when choosing a character, an enemy is created to match the strength of the player.
 
 ![](readme_assets/character-selection.png)
+
 
 
 ## The fightscreen
